@@ -1,2 +1,1 @@
-# HelloWorld2
-Practise number 2
+This is an example on how to use GitHub
